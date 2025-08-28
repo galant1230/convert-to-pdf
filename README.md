@@ -7,3 +7,10 @@
     - 使用瀏覽器打開 HTML 檔案。
     - 按下 Ctrl+P（或 Cmd+P），打開列印介面。
     - 選擇「另存為 PDF」即可將網頁轉換為 PDF 文件。
+
+## StackEdit
+
+- 打開 StackEdit
+- 貼上你的 .md
+- 選 Print as PDF
+ 👉 也支援 LaTeX 公式。
